@@ -15,5 +15,11 @@
     "url": "https://github.com/pgomet/pwa/issues"
   },
   "homepage": "https://github.com/pgomet/pwa#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.0",
+    "save": "^2.5.0"
+  }
 }
