@@ -1,0 +1,35 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgomet/pwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgomet/pwa/issues"
+  },
+  "homepage": "https://github.com/pgomet/pwa#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "node-fetch": "^3.2.10",
+    "popper.js": "^1.16.0",
+    "save": "^2.5.0"
+  },
+  "devDependencies": {
+    "webpack-bundle-analyzer": "^4.5.0"
+  }
+}
