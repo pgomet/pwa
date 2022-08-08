@@ -9,5 +9,5 @@ Created a way for users to track their money in a easy, efficient way. Also give
 
 ## Assets
 The following shows what the website should look like:
-![The webpage shows a budget traker](https://github.com/pgomet/pwa)
+![The webpage shows a budget tracker](https://github.com/pgomet/pwa)
 ![Webpage image](./images/pwa-image.png)
