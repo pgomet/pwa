@@ -10,4 +10,4 @@ Created a way for users to track their money in a easy, efficient way. Also give
 ## Assets
 The following shows what the website should look like:
 ![The webpage shows a budget tracker](https://pwa-module-19.herokuapp.com/)
-![Webpage image](./images/pwa-image.png)
+![Webpage image](./images/pwa-tracker.png)
